@@ -1,5 +1,6 @@
 num=int(input("enter the number"))
 num_1=int(input("enter the number"))
+#this is row input
 operator=input("enter the symbol")
 if operator=="+":
     a=(num+num_1)
